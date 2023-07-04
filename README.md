@@ -1,16 +1,2 @@
-# case_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screenshot - iPhone 14 Pro - 2023-07-04 at 03 48 32](https://github.com/simurg-07/case_project/assets/64634943/a817f4dc-3e2c-4bef-a0a9-fe0b45acd397)
+![Simulator Screenshot - iPhone 14 Pro - 2023-07-04 at 03 48 42](https://github.com/simurg-07/case_project/assets/64634943/e9b33cdc-f7db-4aa8-982d-59fa9e49a696)
